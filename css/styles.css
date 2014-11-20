@@ -27,6 +27,7 @@
 }
 
 .video-container iframe {
+	z-index: -10;
 	width: 80%;
 	display: block;
 	margin: 0 auto;
